@@ -1,5 +1,6 @@
 # Prediction of Sea Ice Extent in Northern Hemisphere
 
+![annual_sea_ice_extent](/images/my_animation5.gif)
 ## Introduction
 ...
 ## Project
